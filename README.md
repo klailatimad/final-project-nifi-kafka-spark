@@ -1,4 +1,3 @@
-# Portfolio Project:
 ## Real-time application that collects GPS data steamed by IoT devices located on buses. The application achieves an efficient, scalable, and fault-tolerant data streaming solution, enabling real-time data analysis and insights.
 
 ![image](https://github.com/klailatimad/final-project-nifi-kafka-spark/assets/122483291/b9f04ed2-6723-4b1e-8db3-d6cc69e8cff3)
