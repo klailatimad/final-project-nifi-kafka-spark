@@ -43,4 +43,4 @@ If you encounter any issues during the installation, refer to the [Docker Instal
 For advanced configurations and usage of Apache NiFi, please refer to the [Official Apache NiFi Documentation](https://nifi.apache.org/docs.html)
 
 ### Next Steps
-Once Apache NiFi is set up, proceed to [Setting Up CDC (Debezium)](docs/CDCSetup.md) to configure Change Data Capture with Debezium.
+Once Apache NiFi is set up, proceed to [Setting Up CDC (Debezium)](CDCSetup.md) to configure Change Data Capture with Debezium.
