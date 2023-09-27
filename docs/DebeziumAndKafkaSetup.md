@@ -80,4 +80,4 @@ For troubleshooting and detailed instructions, refer to the official [Debezium](
 
 ### Next Steps
 
-Proceed to [Configuring Spark Streaming](/SparkStreamingSetup.md) for effective data stream processing.
+Proceed to [Configuring Spark Streaming](/docs/SparkStreamingSetup.md) for effective data stream processing.
