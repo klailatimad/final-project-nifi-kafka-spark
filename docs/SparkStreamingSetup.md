@@ -60,4 +60,4 @@ This guide illustrated how to set up Spark Streaming with PySpark on an EC2 inst
 -   For more details and troubleshooting tips, refer to the [Official Spark Documentation](https://spark.apache.org/docs/latest/) and [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html).
 
 ### Next Steps
-Once the Spark Streaming Setup is complete, proceed to configure AWS Glue Crawler and Athena to organize, analyze, and visualize the processed data efficiently. Please refer to the [AWS Glue/Athena Setup Guide](/docs/AWS-Glue-Athena-Setup.md) for detailed instructions.
+Once the Spark Streaming Setup is complete, proceed to configure AWS Glue Crawler and Athena to organize, analyze, and visualize the processed data efficiently. Please refer to the [AWS Glue/Athena Setup Guide](/docs/AWSGlueAthenaSetup.md) for detailed instructions.
