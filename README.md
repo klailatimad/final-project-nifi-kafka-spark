@@ -1,4 +1,4 @@
-# NiFi-CDC-Kafka-Spark-Streaming Transit Pipeline
+# Real-Time Transit Route Optimization Using NiFi, Kafka, and Spark Streaming
 
 This real-time application is designed to collect and process GPS data streamed by IoT devices located on buses, providing an efficient, scalable, and fault-tolerant data streaming solution and enabling real-time data analysis and insights.
 
