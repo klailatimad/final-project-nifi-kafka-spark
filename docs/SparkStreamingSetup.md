@@ -24,7 +24,7 @@ tar -xf <Downloaded_Spark_Archive> # Extract the downloaded file
 
 #### 2. **Setting up Script and Dependencies**
 
-a. Download the `rest-bus.py` script from the [GitHub Repository](/scripts/rest-bus.py) to your project folder and open it to insert the script provided.
+a. Download the `rest-bus.py` script from the [GitHub Repository](/scripts/rest_bus.py) to your project folder and open it to insert the script provided.
 ```sh
 wget <Link_to_rest-bus.py>
 nano rest-bus.py # or use any other text editor to edit the script
